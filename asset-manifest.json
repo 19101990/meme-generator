@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/meme-generator/static/css/main.f0385f59.css",
-    "main.js": "/meme-generator/static/js/main.e82addcf.js",
+    "main.js": "/meme-generator/static/js/main.486b3a65.js",
     "static/media/Pacifico-Regular.ttf": "/meme-generator/static/media/Pacifico-Regular.c0d735fc04154e03a691.ttf",
     "static/media/comic.ttf": "/meme-generator/static/media/comic.9cdd19aad28c1d3e7ce4.ttf",
     "index.html": "/meme-generator/index.html",
     "main.f0385f59.css.map": "/meme-generator/static/css/main.f0385f59.css.map",
-    "main.e82addcf.js.map": "/meme-generator/static/js/main.e82addcf.js.map"
+    "main.486b3a65.js.map": "/meme-generator/static/js/main.486b3a65.js.map"
   },
   "entrypoints": [
     "static/css/main.f0385f59.css",
-    "static/js/main.e82addcf.js"
+    "static/js/main.486b3a65.js"
   ]
 }

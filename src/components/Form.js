@@ -9,15 +9,15 @@ export default function Form() {
 
   // Init meme object
   const [meme, setMeme] = useState({
-    topText: "",
-    bottomText: "",
+    topText: "Add your text...",
+    bottomText: "Add your text...",
     color: "#fff",
     fontSize: 35,
     fontFamily: "Arial"
   })
 
   // Upload image
-  const [image, setImage] = useState("https://www.thecoderpedia.com/wp-content/uploads/2020/06/Programming-Memes-Programmer-while-sleeping.jpg");
+  const [image, setImage] = useState("https://github.com/19101990/meme-generator/blob/main/src/img/default_meme.jpg?raw=true");
   function handleChange(e) {
     setImage(URL.createObjectURL(e.target.files[0]));
   }
